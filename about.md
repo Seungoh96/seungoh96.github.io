@@ -1,12 +1,11 @@
 ---
 layout: page
-title: <a href="https://scholar.google.ca/citations?user=wrVRNCkAAAAJ&hl=en">Google Scholar</a>
+title: Publications
 sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  My Google scholar citation profile can be found <a href="https://scholar.google.ca/citations?user=wrVRNCkAAAAJ&hl=en">here</a>.
 </p>
 
 To make pages show up in the sidebar, add `sidebar_link: true` to the front
