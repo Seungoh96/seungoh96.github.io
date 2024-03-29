@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Google Scholar
 sidebar_link: true
 ---
 
