@@ -6,7 +6,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Andrew Fong"]
   spec.email         = ["id@andrewfong.com"]
 
-  
+  spec.summary       = %q{}
+  spec.homepage      = "https://github.com/fongandrew/hydeout"
+  spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
 
