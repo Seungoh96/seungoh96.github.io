@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <a href="[YOUR_GOOGLE_SCHOLAR_LINK](https://scholar.google.ca/citations?user=wrVRNCkAAAAJ&hl=en)">Google Scholar</a>
+title: <a href="https://scholar.google.ca/citations?user=wrVRNCkAAAAJ&hl=en">Google Scholar</a>
 sidebar_link: true
 ---
 
