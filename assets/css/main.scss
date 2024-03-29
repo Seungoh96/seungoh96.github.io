@@ -8,5 +8,7 @@ $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 $link-color: #268bd2 !default;
+$sidebar-width: 10rem;
+$sidebar-font-size: $1.0rem;
 
 @import "hydeout";
