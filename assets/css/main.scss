@@ -3,9 +3,10 @@
 # only main files contain this front matter, not partials.
 ---
 
-$sidebar-bg-color: #ac4142;
+$sidebar-bg-color: grey;
 $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 $link-color: #268bd2 !default;
+
 @import "hydeout";
