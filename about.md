@@ -1,5 +1,5 @@
 ---
 layout: page
-title: <a href="https://scholar.google.ca/citations?user=wrVRNCkAAAAJ&hl=en"><i class="fab fa-google"></i> Google Scholar</a>
+title:"[<i class='fab fa-google'></i> Google Scholar](https://scholar.google.ca/citations?user=wrVRNCkAAAAJ&hl=en)"
 sidebar_link: true
 ---
