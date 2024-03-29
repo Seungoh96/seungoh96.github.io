@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Seungcheol Paul Oh
+title:            Seungcheol Oh
 tagline:          'WebPage'
 remote_theme:     fongandrew/hydeout
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
