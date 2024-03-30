@@ -8,7 +8,7 @@ tagline:          'WebPage'
 logo:             /assets/css/img/Headshot.jpg
 remote_theme:     fongandrew/hydeout
 description:      'Machine Learning / Wireless Communication Researcher'
-# url:              https://fongandrew.github.io
+url:              https://fongandrew.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
