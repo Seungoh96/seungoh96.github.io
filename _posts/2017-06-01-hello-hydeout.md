@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Hello Hydeout
+title: Hello I'm Seungcheol Oh
 excerpt_separator:  <!--more-->
 ---
-
-Hydeout updates the original [Hyde](https://github.com/poole/hyde)
-theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
 
 ### Keep It not Simple
 
