@@ -1,12 +1,6 @@
-# Hello I'm Paul (Seungcheol) Oh
+### Hello I'm Paul (Seungcheol) Oh
 
 I'm currently working as a researcher at WiSE Lab to provide solutions for problems in wireless communications with machine learning. 
-```
----
-layout: index
-title: Home
----
-```
 
 You'll also need to add a setting to `_config.yml` telling Jekyll how many posts
 to include per page (e.g. `paginate: 5`).
