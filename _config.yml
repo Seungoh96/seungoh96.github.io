@@ -5,6 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Seungcheol Oh
 tagline:          'WebPage'
+logo:             /_screenshots/1.png
 remote_theme:     fongandrew/hydeout
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://fongandrew.github.io
@@ -18,7 +19,6 @@ baseurl:          '/hydeout'
 author:
   name:           'Andrew Fong'
   url:            https://twitter.com/fongandrewc
-  profile_picture: /_screenshots/1.png
 
 paginate:         5
 # paginate_path:    '/page:num'
