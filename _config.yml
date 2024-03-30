@@ -7,7 +7,7 @@ title:            Seungcheol Oh
 tagline:          'WebPage'
 logo:             /assets/css/img/Headshot.jpg
 remote_theme:     fongandrew/hydeout
-description:      'Wireless Communication / Machine Learning Researcher'
+description:      'Machine Learning / Wireless Communication Researcher'
 # url:              https://fongandrew.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
