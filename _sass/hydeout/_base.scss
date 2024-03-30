@@ -14,7 +14,7 @@ body {
 
 html {
   font-family: $root-font-family;
-  font-size: $root-font-size;
+  font-size: 1.1rem;
   line-height: $root-line-height;
 
   @media (min-width: $large-breakpoint) {
