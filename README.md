@@ -1,3 +1,6 @@
+# Hello I'm Paul (Seungcheol) Oh
+
+I'm currently working as a researcher at WiSE Lab to provide solutions for problems in wireless communications with machine learning. 
 ```
 ---
 layout: index
