@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Hello I'm Seungcheol Oh
+title: Hello I'm Seungcheol (Paul) Oh
 excerpt_separator:  <!--more-->
 ---
 
-Hello! I am Paul (Seungcheol) Oh, a passionate and dedicated researcher specializing in wireless communication systems development. With a Master of Science in Electrical Engineering from California State University Long Beach, I have honed my skills and expertise in designing and implementing innovative solutions to complex challenges in wireless communication.
+Hello! I am Seungcheol (Paul) Oh, a passionate researcher specializing in machine learning and wireless communication systems development.
 
-During my tenure as a Visiting Researcher at the WiSE Lab, I have been instrumental in developing cutting-edge data-driven solutions to optimize time-dependent problems in wireless communication systems. My research focuses on leveraging advanced techniques such as GRU, LSTM, and Transformers to address these optimization challenges effectively. Additionally, I have made significant contributions to the field by designing robust frameworks for generating image data based on wireless channel information, as well as implementing computer vision solutions to enhance hybrid massive MIMO-NOMA systems.
+As a Visiting Researcher at the WiSE Lab, I have been developing cutting-edge data-driven solutions to optimize time-dependent problems in wireless communication systems. My research focuses on leveraging 
+tools such as GRU, LSTM, and Transformers to address these optimization challenges effectively. Additionally, I am currently designing a robust framework for generating image dataset based on wireless channel information, as well as implementing computer vision solutions to enhance hybrid massive MIMO-NOMA systems.
 
 As a Graduate Researcher, I have led projects aimed at improving the performance of communication systems through innovative antenna selection schemes and beamforming techniques. My work on polarized antenna selection and multi-polarized superposition beamforming has garnered attention for its effectiveness in achieving significant signal-to-noise ratio gains and improving system error rates.
 
