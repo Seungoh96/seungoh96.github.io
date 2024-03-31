@@ -1,5 +1,5 @@
 ---
 layout: page
-title: <a href='/assets/Resume.pdf'><i class='fab fa-google'></i> Resume</a>
+title: <a href='/assets/seungcheol_CV.pdf'><i class='fab fa-google'></i> Resume</a>
 sidebar_link: true
 ---
