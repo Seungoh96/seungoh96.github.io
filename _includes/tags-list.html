@@ -26,11 +26,9 @@
       <ul class="posts-list">
         {% for post in site.tags[tag] %}
           <li>
-            <h3>
               <a href="{{ post.url | relative_url }}">
                 {{ post.title }}
               </a>
-            </h3>
           </li>
         {% endfor %}
       </ul>
