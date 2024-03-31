@@ -6,7 +6,7 @@ title: Publications
 ### Journal Papers
 1. **Oh, Paul** and Sean Kwon. Multipolarization superposition beamforming: Novel scheme of transmit power allocation and subcarrier assignment. IEEE Transactions on Wireless Communications, 2023.
 2. **Paul S. Oh**, Sean Soek-Chul Kwon, and Andreas F. Molisch. Antenna selection in polarization reconfigurable MIMO (PR-MIMO) communication systems. arXiv, 2021.
-3. 
+
 ### Conference Paper
 1. **Oh, Paul** and Sean Kwon. Multi-polarization superposition beamforming with xpd-aware transmit power allocation. In 2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall), 2020.
 2. Junghyun Kim, Thong D. Ngo, **Oh, Paul S.**, Sean S.-C. Kwon, Changhee Han, and Joongheon Kim. Economic theoretic leo satellite coverage control: An auction-based framework. In 2020 International Conference on Information and Communication Technology Convergence (ICTC), pages 258–260, 2020.
