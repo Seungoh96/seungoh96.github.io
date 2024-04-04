@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Journal Papers
-1. **Oh, Paul** and Sean Kwon. Multipolarization superposition beamforming: Novel scheme of transmit power allocation and subcarrier assignment. IEEE Transactions on Wireless Communications, 2023.
+1. **Oh, Paul** and Sean Kwon. Multipolarization superposition beamforming: Novel scheme of transmit power allocation and subcarrier assignment. IEEE Transactions on Wireless Communications, 2023. [[paper](https://arxiv.org/abs/2404.02757)]
 2. **Paul S. Oh**, Sean Soek-Chul Kwon, and Andreas F. Molisch. Antenna selection in polarization reconfigurable MIMO (PR-MIMO) communication systems. arXiv, 2021.
 
 ### Conference Paper
