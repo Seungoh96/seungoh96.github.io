@@ -7,7 +7,7 @@ excerpt_separator:  <!--more-->
 Hello! I am Seungcheol (Paul) Oh, a passionate researcher specializing in machine learning and wireless communication systems development.
 
 As a Visiting Researcher at the WiSE Lab, I have been developing cutting-edge data-driven solutions to optimize time-dependent problems in wireless communication systems. My research focuses on leveraging 
-tools such as GRU, LSTM, and Transformers to address these optimization challenges effectively. Additionally, I am currently designing a robust framework for generating image dataset based on wireless channel information with LLM.
+tools such as GRU, LSTM, and Transformers to address these optimization challenges effectively. Additionally, I am currently designing a robust framework for generating image dataset based on wireless channel information.
 
 As a Graduate Researcher, I have led projects aimed at improving the performance of communication systems (capacity) through incorporating multi-polarized antenna elements to antenna selection schemes and beamforming techniques. My work on polarized antenna selection and multi-polarized superposition beamforming has garnered attention for its effectiveness in achieving significant signal-to-noise ratio gains and improving system error rates.
 
