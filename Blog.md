@@ -6,5 +6,5 @@ sidebar_sort_order: 4
 ---
 
 Natural Language Processing: 
-<a href='/assets/files/seungcheol_CV_ML.pdf'>Sequence Model</a>
+<a href='/assets/files/Sequence_Models.pdf'>Sequence Model</a>
 
