@@ -9,7 +9,7 @@ sidebar_sort_order: 4
 1. Time Complexity (Coming Soon)
 
 **Natural Language Processing**: 
-1. <a href='/assets/files/Transformer.pdf'>Transformer</a>
+1. <a href='/assets/files/Transformer.pdf'>Transformer</a> (Not Finished)
 2. <a href='/assets/files/Sequence_Models.pdf'>Sequence Models</a> (Not Finished)
 
 **Communication Systems**:
