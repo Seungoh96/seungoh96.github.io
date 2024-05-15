@@ -13,4 +13,5 @@ sidebar_sort_order: 4
 
 **Communication Systems**:
 1. <a href='/assets/files/Wireless_Communication.pdf'>Wireless Communication</a> (Not Finished)
+2. <a href='/assets/files/Continuous_Time_BandLimited_Channel.pdf'>Continuous Time Band-limited Gaussian Channel</a>
 
