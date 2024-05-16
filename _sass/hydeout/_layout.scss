@@ -71,6 +71,13 @@ body {
   }
 }
 
+// Media query for smaller screens
+@media (max-width: 768px) {
+  #sidebar img {
+    max-width: 80%; /* Adjust the max-width for smaller screens */
+  }
+}
+
 /* -----------------------------------------------------------
   Mobile view
 ----------------------------------------------------------- */
