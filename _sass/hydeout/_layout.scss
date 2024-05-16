@@ -176,7 +176,7 @@ body {
   }
 
   #sidebar {
-    position: fixed;
+    position: relative;
 
     // Attach to bottom or top of window
     @if $sidebar-sticky {
