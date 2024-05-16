@@ -74,13 +74,13 @@ body {
   }
 }
 
-// Media query for smaller screens
-@media (max-width: 768px) {
-  #sidebar img {
-    max-width: 80%; /* Adjust the max-width for smaller screens */
+@media (max-width: $large-breakpoint) {
+  #sidebar {
+    position: relative; /* or static */
+    width: 100%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the sidebar horizontally */
   }
 }
-
 /* -----------------------------------------------------------
   Mobile view
 ----------------------------------------------------------- */
