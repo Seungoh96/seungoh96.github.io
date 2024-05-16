@@ -36,13 +36,13 @@ body {
   flex: 0 0 auto;
   padding: $section-spacing;
 
-  // img {
-  //   border-radius: 5px;
-  //   display: block;
-  //   height: auto;
-  //   margin: 0 0 1rem;
-  //   max-width: 100%;
-  // }
+  img {
+    border-radius: 5px;
+    display: block;
+    height: auto;
+    margin: 0 0 1rem;
+    max-width: 100%;
+  }
 
   .site-title {
     font-family: 'Abril Fatface', serif;
