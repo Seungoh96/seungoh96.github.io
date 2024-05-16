@@ -37,9 +37,12 @@ body {
   padding: $section-spacing;
 
   img {
-      max-width: 100%; /* Ensure the image doesn't exceed its container */
-      height: auto; /* Maintain aspect ratio */
-    }
+    border-radius: 5px;
+    display: block;
+    height: auto;
+    margin: 0 0 1rem;
+    max-width: 100%;
+  }
 
   .site-title {
     font-family: 'Abril Fatface', serif;
