@@ -177,15 +177,16 @@ body {
 
   #sidebar {
     position: static;
+    top:0;
 
-    // Attach to bottom or top of window
-    @if $sidebar-sticky {
-      bottom: 0;
-    }
+    // // Attach to bottom or top of window
+    // @if $sidebar-sticky {
+    //   bottom: 0;
+    // }
 
-    @else {
-      top: 0;
-    }
+    // @else {
+    //   top: 0;
+    // }
 
     // Attach to right or left of window
     @if $layout-reverse {
