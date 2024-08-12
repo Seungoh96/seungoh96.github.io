@@ -9,7 +9,7 @@ sidebar_sort_order: 4
 1. Time Complexity (Coming Soon)
 
 ** Quantum Computing**:
-1. <a href='/assets/files/Transformer.pdf'>Basics of Quantum Computing</a> (Not Finished)
+1. <a href='/assets/files/Quantum_Computing.pdf'>Basics of Quantum Computing</a> (Not Finished)
 
 **Natural Language Processing**: 
 1. <a href='/assets/files/Transformer.pdf'>Transformer</a> (Not Finished)
