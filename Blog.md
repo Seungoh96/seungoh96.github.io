@@ -10,6 +10,7 @@ sidebar_sort_order: 4
 
 **Quantum Computing**:
 1. <a href='/assets/files/Quantum_Computing.pdf'>Basics of Quantum Computing</a> (Not Finished)
+2. Shor's Algorithm (Coming Soon)
 
 **Natural Language Processing**: 
 1. <a href='/assets/files/Transformer.pdf'>Transformer</a> (Not Finished)
