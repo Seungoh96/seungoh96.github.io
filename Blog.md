@@ -5,8 +5,9 @@ sidebar_link: true
 sidebar_sort_order: 4
 ---
 
-**Machine Learning**:
-1. Time Complexity (Coming Soon)
+**Reinforcement Learning**:
+1. Markov Decision Process (Coming Soon)
+2. Bellman Equation (Coming Soon)
 
 **Quantum Computing**:
 1. <a href='/assets/files/Quantum_Computing.pdf'>Basics of Quantum Computing</a> (Not Finished)
