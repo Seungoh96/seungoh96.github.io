@@ -14,7 +14,8 @@ sidebar_sort_order: 4
 2. Shor's Algorithm (Coming Soon)
 
 **Quantum Machine Learning**:
-1. Parametric Quantum Circuit (PQC) (Coming Soon)
+
+Coming Soon! 
 
 **Natural Language Processing**: 
 1. <a href='/assets/files/Transformer.pdf'>Transformer</a> (Not Finished)
