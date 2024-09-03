@@ -6,8 +6,7 @@ sidebar_sort_order: 4
 ---
 
 **Reinforcement Learning**:
-1. Markov Decision Process (Coming Soon)
-2. Bellman Equation (Coming Soon)
+1. <a href='/assets/files/Reinforcement_Learning.pdf'>Basics of Reinforcement Learning</a> (Not Finished)
 
 **Quantum Computing**:
 1. <a href='/assets/files/Quantum_Computing.pdf'>Basics of Quantum Computing</a> (Not Finished)
