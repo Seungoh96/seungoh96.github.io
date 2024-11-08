@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Journal Papers
-1. **Oh, Seungcheol**, Han Han, Joongheon Kim and Sean Kwon. Double-Side Polarization and Beamforming Alignment in Polarization Reconfigurable MISO System with Deep Neural Networks, 2024. [[paper]((https://arxiv.org/abs/2409.20065))]
+1. **Oh, Seungcheol**, Han Han, Joongheon Kim and Sean Kwon. Double-Side Polarization and Beamforming Alignment in Polarization Reconfigurable MISO System with Deep Neural Networks, 2024. [[paper](https://arxiv.org/abs/2409.20065)]
 2. **Oh, Paul** and Sean Kwon. Multipolarization superposition beamforming: Novel scheme of transmit power allocation and subcarrier assignment. IEEE Transactions on Wireless Communications, 2023. [[paper](https://arxiv.org/abs/2404.02757)]
 3. **Paul S. Oh**, Sean Soek-Chul Kwon, and Andreas F. Molisch. Antenna selection in polarization reconfigurable MIMO (PR-MIMO) communication systems. arXiv, 2021. (Submitted to IEEE TWC) [[paper](https://arxiv.org/abs/2112.00931)]
 
