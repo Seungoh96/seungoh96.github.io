@@ -4,9 +4,10 @@ title: Publications
 ---
 
 ### Journal Publications
-1. **Oh, Seungcheol**, Han Han, Joongheon Kim and Sean Kwon. "Double-Side Polarization and Beamforming Alignment in Polarization Reconfigurable MISO System with Deep Neural Networks", submitted to *IEEE Wireless Communications Letter*, 2024. [[paper](https://arxiv.org/abs/2409.20065)]
-2. **Oh, Paul** and Sean Kwon. "Multipolarization superposition beamforming: Novel scheme of transmit power allocation and subcarrier assignment", accepted in *IEEE Transactions on Wireless Communications*, 2023. [[paper](https://arxiv.org/abs/2404.02757)]
-3. **Paul S. Oh**, Sean Seok-Chul Kwon, and Andreas F. Molisch. "Antenna selection in polarization reconfigurable MIMO (PR-MIMO) communication systems", submitted to *IEEE TWC*, 2024 [[paper](https://arxiv.org/abs/2112.00931)]
+1. 1. **Oh, Seungcheol**, Han Han, Joongheon Kim and Sean Kwon. "Polarization Reconfigurable Transmit-Receive Beam Alignment with Interpretable Transformer", submitted to *IEEE Journal on Selected Areas in Communications*, 2025.
+2. **Oh, Seungcheol**, Han Han, Joongheon Kim and Sean Kwon. "Double-Side Polarization and Beamforming Alignment in Polarization Reconfigurable MISO System with Deep Neural Networks", submitted to *IEEE Wireless Communications Letter*, 2024. [[paper](https://arxiv.org/abs/2409.20065)]
+3. **Oh, Paul** and Sean Kwon. "Multipolarization superposition beamforming: Novel scheme of transmit power allocation and subcarrier assignment", accepted in *IEEE Transactions on Wireless Communications*, 2023. [[paper](https://arxiv.org/abs/2404.02757)]
+4. **Paul S. Oh**, Sean Seok-Chul Kwon, and Andreas F. Molisch. "Antenna selection in polarization reconfigurable MIMO (PR-MIMO) communication systems", submitted to *IEEE TWC*, 2024 [[paper](https://arxiv.org/abs/2112.00931)]
 
 ### Conference Publications
 1. Julio Acevedo, Thong Ngo, **Paul Oh**, Hen-Geul Yeh, Sean Kwon. "A Novel Paradigm of Polarization Reconfigurable NOMA with Dynamic Ordered SIC", *Asilomar Conference on Signals, Systems and Computers*, November 2024.
