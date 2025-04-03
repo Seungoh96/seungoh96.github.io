@@ -4,7 +4,7 @@ title: Hello I'm Seungcheol (Paul) Oh
 excerpt_separator:  <!--more-->
 ---
 
-Hello! I am Seungcheol (Paul) Oh, a passionate researcher specializing in machine learning and wireless communication systems development.
+Hello! I am Seungcheol (Paul) Oh, a passionate PhD student researcher at Korea University, Seoul, South Kroea, specializing in quantum machine learing, classical machine learning and wireless communication systems development.
 
 As a Visiting Researcher at the WiSE Lab, I have been developing cutting-edge data-driven solutions to optimize time-dependent problems in wireless communication systems. My research focuses on leveraging 
 tools such as GRU, LSTM, and Transformers to address these optimization challenges effectively.
