@@ -5,9 +5,9 @@ title: Publications
 
 ### Journal Publications
 1. **Oh, Seungcheol**, Han Han, Joongheon Kim and Sean Kwon. "Polarization Reconfigurable Transmit-Receive Beam Alignment with Interpretable Transformer", submitted to *IEEE Journal on Selected Areas in Communications*, 2025.
-2. **Paul S. Oh**, Sean Seok-Chul Kwon, and Andreas F. Molisch. "Antenna selection in polarization reconfigurable MIMO (PR-MIMO) communication systems", submitted to *IEEE Journal on Selected Areas in Communications*, 2025 [[paper](https://arxiv.org/abs/2112.00931)]
+2. **Paul S. Oh**, Sean Seok-Chul Kwon, and Andreas F. Molisch. "Antenna Selection in Polarization Reconfigurable MIMO (PR-MIMO) Communication Systems", submitted to *IEEE Journal on Selected Areas in Communications*, 2025 [[paper](https://arxiv.org/abs/2112.00931)]
 3. **Oh, Seungcheol**, Han Han, Joongheon Kim and Sean Kwon. "Double-Side Polarization and Beamforming Alignment in Polarization Reconfigurable MISO System with Deep Neural Networks", submitted to *IEEE Wireless Communications Letter*, 2024. [[paper](https://arxiv.org/abs/2409.20065)]
-4. **Oh, Paul** and Sean Kwon. "Multipolarization superposition beamforming: Novel scheme of transmit power allocation and subcarrier assignment", accepted in *IEEE Transactions on Wireless Communications*, 2023. [[paper](https://arxiv.org/abs/2404.02757)]
+4. **Oh, Paul** and Sean Kwon. "Multipolarization Superposition Beamforming: Novel Scheme of Transmit Power Allocation and Subcarrier Assignment", accepted in *IEEE Transactions on Wireless Communications*, 2023. [[paper](https://arxiv.org/abs/2404.02757)]
 
 ### Conference Publications
 1. Julio Acevedo, Thong Ngo, **Paul Oh**, Hen-Geul Yeh, Sean Kwon. "A Novel Paradigm of Polarization Reconfigurable NOMA with Dynamic Ordered SIC", *Asilomar Conference on Signals, Systems and Computers*, November 2024.
