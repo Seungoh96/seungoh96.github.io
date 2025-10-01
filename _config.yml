@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Seungcheol Oh
 tagline:          'WebPage'
-logo:             /assets/img/Headshot.jpg
+logo:             /assets/img/Headshot_2.jpg
 remote_theme:     fongandrew/hydeout
 description:      'Machine Learning / Wireless Communication Researcher'
 url:              https://fongandrew.github.io
