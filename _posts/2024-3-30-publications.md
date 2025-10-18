@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Journal Publications
-1. **Oh, Seungcheol**, Han Han, Joongheon Kim and Sean Kwon. "Polarization Reconfigurable Transmit-Receive Beam Alignment with Interpretable Transformer", submitted to *IEEE Transactions on Wireless Communcations*, 2025 [[paper](https://arxiv.org/abs/2508.12298)].
+1. **Oh, Seungcheol**, Han Han, Joongheon Kim and Sean Kwon. "Polarization Reconfigurable Transmit-Receive Beam Alignment with Interpretable Transformer", submitted to *IEEE Transactions on Wireless Communications*, 2025 [[paper](https://arxiv.org/abs/2508.12298)].
 2. **Paul S. Oh**, Sean Seok-Chul Kwon, and Andreas F. Molisch. "Antenna Selection in Polarization Reconfigurable MIMO (PR-MIMO) Communication Systems", submitted to *IEEE Transactions on Vehicular Technology*, 2025 [[paper](https://arxiv.org/abs/2112.00931)]
 3. **Oh, Seungcheol**, Han Han, Joongheon Kim and Sean Kwon. "Double-Side Polarization and Beamforming Alignment in Polarization Reconfigurable MISO System with Deep Neural Networks", submitted to *IEEE Wireless Communications Letter*, 2024. [[paper](https://arxiv.org/abs/2409.20065)]
 4. **Oh, Paul** and Sean Kwon. "Multipolarization Superposition Beamforming: Novel Scheme of Transmit Power Allocation and Subcarrier Assignment", accepted in *IEEE Transactions on Wireless Communications*, 2023. [[paper](https://arxiv.org/abs/2404.02757)]
@@ -15,4 +15,5 @@ title: Publications
 3. S. Krishnamoorthi, A. Macwan, **P. Oh** and S. S. -C. Kwon, "Interference-aware Multi-User, Multi-Polarization Superposition Beamforming (MPS-Beamforming)", *2020 IEEE Green Energy and Smart Systems Conference (IGESSC)*, 2020
 4. Junghyun Kim, Thong D. Ngo, **Oh, Paul S.**, Sean S.-C. Kwon, Changhee Han, and Joongheon Kim. "Economic theoretic leo satellite coverage control: An auction-based framework", *2020 International Conference on Information and Communication Technology Convergence (ICTC)*, pages 258–260, 2020.
 5. **Oh, Seungcheol Paul** and Seok-Chul Sean Kwon. "Capacity of polarized-mimo (p-mimo) system in different wireless channels", *2018 IEEE Green Energy and Smart Systems Conference (IGESSC)*, 2018. **Best Paper Award** [[paper](https://openreview.net/pdf?id=pZPZl7hRRk)]
+
 
