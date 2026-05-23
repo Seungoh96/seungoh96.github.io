@@ -4,11 +4,12 @@ title: Publications
 ---
 
 ### Journal Publications
-1. **Seungcheol Oh**, Chaemoon Im, Soohyun Park, Joongheon Kim. "Understanding Qubit Trajectories in Parameterized Quantum Circuits", accepted to *Physical Review A*, 2026 [[paper](https://journals.aps.org/pra/accepted/10.1103/1x3t-9kzq)].
-2. **Seungcheol Oh**, Han Han, Joongheon Kim and Sean Kwon. "Polarization Reconfigurable Transmit-Receive Beam Alignment with Interpretable Transformer", submitted to *IEEE Transactions on Wireless Communications*, 2025 [[paper](https://arxiv.org/abs/2508.12298)].
-3. **Seungcheol Oh**, Han Han, Joongheon Kim and Sean Kwon. "Polarization Reconfigurable Transmit Beamforming: Deep Learning and Pilot Protocol Framework", submitted to *IEEE Transactions on Vehicular Technology*, 2026. [[paper](https://arxiv.org/abs/2409.20065)]
-4. **Paul S. Oh**, Sean Seok-Chul Kwon, and Andreas F. Molisch. "Antenna Selection in Polarization Reconfigurable MIMO (PR-MIMO) Communication Systems", submitted to *IEEE Transactions on Vehicular Technology*, 2025 [[paper](https://arxiv.org/abs/2112.00931)]
-5. **Paul Seungcheol Oh** and Sean Kwon. "Multipolarization Superposition Beamforming: Novel Scheme of Transmit Power Allocation and Subcarrier Assignment", accepted in *IEEE Transactions on Wireless Communications*, 2023. [[paper](https://arxiv.org/abs/2404.02757)]
+1. **Seungcheol Oh**, Emily Jimin Roh, Athanasios V. Vasilakos, Soohyun Park, Joongheon Kim. "Fourier Analysis Perspective on Quantum Neural Networks", accepted to *Communication Physics (Nature)*, 2026 [[paper]([https://journals.aps.org/pra/accepted/10.1103/1x3t-9kzq](https://www.nature.com/articles/s42005-026-02680-x))].
+2. **Seungcheol Oh**, Chaemoon Im, Soohyun Park, Joongheon Kim. "Understanding Qubit Trajectories in Parameterized Quantum Circuits", accepted to *Physical Review A*, 2026 [[paper](https://journals.aps.org/pra/accepted/10.1103/1x3t-9kzq)].
+3. **Seungcheol Oh**, Han Han, Joongheon Kim and Sean Kwon. "Polarization Reconfigurable Transmit-Receive Beam Alignment with Interpretable Transformer", submitted to *IEEE Transactions on Wireless Communications*, 2025 [[paper](https://arxiv.org/abs/2508.12298)].
+4. **Seungcheol Oh**, Han Han, Joongheon Kim and Sean Kwon. "Polarization Reconfigurable Transmit Beamforming: Deep Learning and Pilot Protocol Framework", submitted to *IEEE Transactions on Vehicular Technology*, 2026. [[paper](https://arxiv.org/abs/2409.20065)]
+5. **Paul S. Oh**, Sean Seok-Chul Kwon, and Andreas F. Molisch. "Antenna Selection in Polarization Reconfigurable MIMO (PR-MIMO) Communication Systems", submitted to *IEEE Transactions on Vehicular Technology*, 2025 [[paper](https://arxiv.org/abs/2112.00931)]
+6. **Paul Seungcheol Oh** and Sean Kwon. "Multipolarization Superposition Beamforming: Novel Scheme of Transmit Power Allocation and Subcarrier Assignment", accepted in *IEEE Transactions on Wireless Communications*, 2023. [[paper](https://arxiv.org/abs/2404.02757)]
 
 ### Conference Publications
 1. **Seungcheol Oh**, Han Han, Joongheon Kim, Sean Kwon. "Polarization Reconfigurable Beamforming with Transformer-Based Deep Neural Network", *IEEE PIMRC 2025*, September 2025 [[paper](https://ieeexplore.ieee.org/document/11274792)].
