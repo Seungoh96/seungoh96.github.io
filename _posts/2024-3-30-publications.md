@@ -2,7 +2,7 @@
 layout: post
 title: Publications
 ---
-
+ 
 ### Journal Publications
 1. **Seungcheol Oh**, Emily Jimin Roh, Athanasios V. Vasilakos, Soohyun Park, Joongheon Kim. "Fourier Analysis Perspective on Quantum Neural Networks", accepted to *Communications Physics (Nature)*, 2026 [[paper](https://www.nature.com/articles/s42005-026-02680-x)].
 2. **Seungcheol Oh**, Chaemoon Im, Soohyun Park, Joongheon Kim. "Understanding Qubit Trajectories in Parameterized Quantum Circuits", accepted to *Physical Review A*, 2026 [[paper](https://journals.aps.org/pra/accepted/10.1103/1x3t-9kzq)].
