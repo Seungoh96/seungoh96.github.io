@@ -18,7 +18,8 @@ baseurl:          '/hydeout'
 
 author:
   name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  url:            "https://seungoh96.github.io"
+  baseurl: ""
 
 paginate:         5
 # paginate_path:    '/page:num'
