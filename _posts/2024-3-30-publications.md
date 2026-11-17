@@ -2,9 +2,9 @@
 layout: post
 title: Publications
 ---
- 
+
 ### Journal Publications
-1. **Seungcheol Oh**, Chaemoon Im, Soohyun Park, Joongheon Kim. "Multichannel feature extraction for data-reuploading quantum neural networks", accepted to *Physical Review Applied*, 2026 [[paper]([https://www.nature.com/articles/s42005-026-02680-x](https://journals.aps.org/prapplied/abstract/10.1103/kprd-ld5d))].
+1. **Seungcheol Oh**, Chaemoon Im, Soohyun Park, Joongheon Kim. "Multichannel feature extraction for data-reuploading quantum neural networks", accepted to *Physical Review Applied*, 2026 [[paper](https://journals.aps.org/prapplied/abstract/10.1103/kprd-ld5d)].
 2. **Seungcheol Oh**, Emily Jimin Roh, Athanasios V. Vasilakos, Soohyun Park, Joongheon Kim. "Fourier Analysis Perspective on Quantum Neural Networks", accepted to *Communications Physics (Nature)*, 2026 [[paper](https://www.nature.com/articles/s42005-026-02680-x)].
 3. **Seungcheol Oh**, Chaemoon Im, Soohyun Park, Joongheon Kim. "Understanding Qubit Trajectories in Parameterized Quantum Circuits", accepted to *Physical Review A*, 2026 [[paper](https://journals.aps.org/pra/accepted/10.1103/1x3t-9kzq)].
 4. **Seungcheol Oh**, Han Han, Joongheon Kim and Sean Kwon. "Polarization Reconfigurable Transmit-Receive Beam Alignment with Interpretable Transformer", submitted to *IEEE Transactions on Wireless Communications*, 2025 [[paper](https://arxiv.org/abs/2508.12298)].
